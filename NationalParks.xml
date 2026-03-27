@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="https://swalizad-ux.github.io/cse445-assignment4/NationalParks.xsd">
-
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="NationalParks.xsd">
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
     <Phone>888-297-2757</Phone>
     <Phone>866-499-2574</Phone>
-    <Address NearestAirport="Flagstaff">
+    <Address NearestAirport="FlagStaff">
       <Number>8</Number>
       <Street>S Entrance Road</Street>
       <City>Grand Canyon</City>
@@ -16,7 +14,6 @@
       <Zip>86023</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
@@ -29,7 +26,6 @@
       <Zip>82190</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.8">
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
@@ -41,7 +37,6 @@
       <Zip>95389</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark>
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
@@ -54,7 +49,6 @@
       <Zip>84767</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.7">
     <Name>Bryce Canyon</Name>
     <Phone>435-834-5322</Phone>
@@ -66,7 +60,6 @@
       <Zip>84764</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark>
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
@@ -78,7 +71,6 @@
       <Zip>84532</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.7">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
@@ -91,7 +83,6 @@
       <Zip>59936</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark>
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
@@ -103,7 +94,6 @@
       <Zip>80517</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.6">
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
@@ -115,7 +105,6 @@
       <Zip>04609</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark>
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
@@ -128,7 +117,6 @@
       <Zip>33034</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.8">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
@@ -140,5 +128,4 @@
       <Zip>98362</Zip>
     </Address>
   </NationalPark>
-
 </NationalParks>
